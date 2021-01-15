@@ -1,0 +1,6 @@
+com/example/demo/DemoApplication.class
+com/example/demo/Message.class
+com/example/demo/listener/AMQPListener.class
+com/example/demo/AMQPConfig.class
+com/example/demo/PublisherController.class
+com/example/demo/ServletInitializer.class
